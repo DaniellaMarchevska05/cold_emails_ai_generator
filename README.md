@@ -46,10 +46,3 @@ Cold Email Generator is a Streamlit-based application that automates personalize
 ## Contributing
 Feel free to submit issues and pull requests to improve the project.
 
-## License
-This project is licensed under the MIT License.
-
----
-**Author:** Your Name  
-**Contact:** your.email@example.com  
-
